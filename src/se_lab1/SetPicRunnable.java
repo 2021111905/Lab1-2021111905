@@ -34,3 +34,4 @@ class SetPicRunnable implements Runnable  {
     }
 
 }
+//  修改

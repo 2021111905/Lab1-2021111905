@@ -48,3 +48,4 @@ class QueryBridgePanel extends JPanel {
         this.add(this.lbRst, gbc);
     }
 }
+// 注释

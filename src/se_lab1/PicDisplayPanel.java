@@ -41,3 +41,4 @@ class PicDisplayPanel extends JPanel {
         picLabel.setIcon(pic);
     }
 }
+// 注释
